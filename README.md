@@ -7,6 +7,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=XAP3xOnTop&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true)<br/>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fd2ac54e-766d-43b8-a8b6-b7e6124297fa/deploy-status)](https://app.netlify.com/sites/silver-praline-e17463/deploys)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
