@@ -7,4 +7,5 @@ Or visit me on social media [Link tree](https://linktr.ee/xap3x)
 
 <details>
   <summary>Programming languages im using</summary>
+  test
 </details>
