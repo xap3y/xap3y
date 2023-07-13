@@ -5,5 +5,6 @@ I live in Czech Republic. I enjoy coding. I used to create minecraft plugins/skr
 You can read more about me on [My website](htt/ps://www.xap3x.gq)
 Or visit me on social media [Link tree](https://linktr.ee/xap3x)
 
-<summary>More</summary>
-<a>wad</a>
+<details>
+  <summary>Programming languages im using</summary>
+</details>
