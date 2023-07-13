@@ -13,3 +13,8 @@ Or visit me on social media [Link tree](https://linktr.ee/xap3x)
 
 ### OS
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+
+<details>
+  <summary><b>Stats</b></summary>
+  <img src=https://github-readme-stats.vercel.app/api?username=XAP3xOnTop&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true alt=Stats image>
+</details>
