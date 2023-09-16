@@ -16,5 +16,5 @@ Or visit me on social media [Link tree](https://xap3x.dev/linktree)
 
 <details>
   <summary><b>Stats</b></summary>
-  <img src=https://github-readme-stats.vercel.app/api?username=XAP3xOnTop&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true alt=Stats image>
+  <img src=https://github-readme-stats.vercel.app/api?username=xap3y&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true alt=Stats image>
 </details>
