@@ -1,6 +1,6 @@
 ## Hello, I'm XAP3Y
 
-I live in Czech Republic. I enjoy coding. I used to create minecraft plugins/skripts and post it on [SpigotMC](https://www.spigotmc.org/members/xap3x.1650610/) or [Old SpigotMC](https://www.spigotmc.org/members/minecubek.797215/).
+I'm from Czech Republic and I enjoy coding.
 
 You can read more about me on [My website](https://xap3y.fun)
 Or visit me on social media [Link tree](https://xap3y.fun/linktree)
