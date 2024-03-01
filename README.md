@@ -3,7 +3,7 @@
 I'm from Czech Republic and I enjoy coding.
 
 You can read more about me on [My website](https://xap3y.fun)
-Or visit me on social media [Link tree]([https://xap3y.fun/linktree](https://xap3y.eu/links))
+Or visit me on social media [Link tree](https://xap3y.eu/links)
 
 ### Languages
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
