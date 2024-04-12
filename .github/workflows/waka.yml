@@ -7,6 +7,7 @@ on:
 jobs:
   update-readme:
     name: Update Readme with Metrics
+    environment: WAKATIME_API_KEY
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
