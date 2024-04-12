@@ -54,5 +54,76 @@ Or visit me on social media [Link tree](https://xap3y.eu/links)
 <details>	
     <summary><b>Dev Metrics</b></summary>
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 171.4 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 25 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+🌆 Daytime                301 commits         ███████░░░░░░░░░░░░░░░░░░   26.88 % 
+🌃 Evening                759 commits         █████████████████░░░░░░░░   67.77 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Tuesday                  124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Wednesday                85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Thursday                 58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Friday                   303 commits         ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+Saturday                 177 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Sunday                   238 commits         █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Prague
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               12 repos            ████████░░░░░░░░░░░░░░░░░   32.43 % 
+Kotlin                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/xap3y/xap3y/main/assets/bar_graph.png)
+
+
+ Last Updated on 12/04/2024 10:20:43 UTC
+<!--END_SECTION:waka-->
 </details>
