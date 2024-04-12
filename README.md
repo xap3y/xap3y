@@ -45,3 +45,8 @@ Or visit me on social media [Link tree](https://xap3y.eu/links)
   <summary><b>Stats</b></summary>
   <img src=https://github-readme-stats.vercel.app/api?username=xap3y&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true alt=Stats image>
 </details>
+
+<details>	
+    <summary><b>🗓️ My Calendar</b></summary>
+    <img src="https://github.com/xap3y/xap3y/blob/main/profile-3d-contrib/profile-night-green.svg">
+</details>
