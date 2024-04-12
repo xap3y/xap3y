@@ -50,3 +50,9 @@ Or visit me on social media [Link tree](https://xap3y.eu/links)
     <summary><b>🗓️ My Calendar</b></summary>
     <img src="https://github.com/xap3y/xap3y/blob/main/profile-3d-contrib/profile-night-green.svg">
 </details>
+
+<details>	
+    <summary><b>Dev Metrics</b></summary>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+</details>
