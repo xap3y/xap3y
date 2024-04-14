@@ -54,9 +54,7 @@ Or visit me on social media [Link tree](https://xap3y.eu/links)
 <details>	
     <summary><b>Dev Metrics</b></summary>
     <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-139-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-147-blue)
 
 **🐱 My GitHub Data** 
 
@@ -68,46 +66,6 @@ Or visit me on social media [Link tree](https://xap3y.eu/links)
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-🌆 Daytime                308 commits         ███████░░░░░░░░░░░░░░░░░░   27.18 % 
-🌃 Evening                765 commits         █████████████████░░░░░░░░   67.52 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Tuesday                  125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Wednesday                86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Thursday                 58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Friday                   313 commits         ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-Saturday                 177 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Sunday                   238 commits         █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Prague
-
-💬 Programming Languages: 
-Kotlin                   0 secs              █████████████████████████   99.57 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-
-🔥 Editors: 
-Intellijidea             0 secs              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-XaCore                   0 secs              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -125,6 +83,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xap3y/xap3y/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2024 18:17:17 UTC
+ Last Updated on 14/04/2024 22:56:28 UTC
 <!--END_SECTION:waka-->
 </details>
