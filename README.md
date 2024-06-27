@@ -53,5 +53,10 @@ Or visit me on social media [Link tree](https://xap3y.eu/links)
 <details>	
     <summary><b>Dev Metrics</b></summary>
     <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 </details>
