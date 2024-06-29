@@ -55,7 +55,11 @@ Or visit me on social media [Link tree](https://xap3y.eu/links)
     <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin           9 hrs           ██████████████████▒░░░░░░   72.77 %
+Java             1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+XML              51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+YAML             41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+JSON             26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
 ```
 
 <!--END_SECTION:waka-->
