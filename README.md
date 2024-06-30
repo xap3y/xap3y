@@ -55,11 +55,11 @@ Or visit me on social media [Link tree](https://xap3y.eu/links)
     <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           9 hrs           ██████████████████▒░░░░░░   72.77 %
-Java             1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-XML              51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-YAML             41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-JSON             26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Kotlin            12 hrs 5 mins   █████████████████▒░░░░░░░   69.59 %
+YAML              1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+Java              1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+XML               51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+Gradle            42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 ```
 
 <!--END_SECTION:waka-->
