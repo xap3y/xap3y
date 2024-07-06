@@ -55,11 +55,11 @@ Or visit me on social media [Link tree](https://xap3y.eu/links)
     <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            29 hrs 48 mins  █████████████░░░░░░░░░░░░   51.48 %
-Java              9 hrs 56 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
-Astro             5 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-XML               2 hrs 48 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-MDX               2 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Kotlin            31 hrs 53 mins  █████████████▓░░░░░░░░░░░   55.27 %
+Java              8 hrs 47 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
+Astro             5 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+MDX               2 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+XML               1 hr 57 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
 
 <!--END_SECTION:waka-->
