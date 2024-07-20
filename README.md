@@ -55,11 +55,11 @@ Or visit me on social media [Link tree](https://xap3y.eu/links)
     <!--START_SECTION:waka-->
 
 ```txt
-Java              6 hrs 6 mins    ████████▓░░░░░░░░░░░░░░░░   34.70 %
-Text              4 hrs 45 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.01 %
-Kotlin            1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-Bash              1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-JSON              1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+Java              12 hrs 58 mins  █████████████▓░░░░░░░░░░░   54.13 %
+Text              4 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
+Bash              1 hr 51 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+TOML              49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+XML               43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
