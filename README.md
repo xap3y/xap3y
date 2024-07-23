@@ -1,12 +1,10 @@
-## Hello, I'm XAP3Y
+## Hello, I'm [XAP3Y](https://xap3y.eu)
 
-I'm from Czech Republic and I enjoy coding.
-
-You can read more about me on [My website](https://xap3y.eu)
-Or visit me on social media [Link tree](https://xap3y.eu/links)
+I do minecraft plugins for fun.
 
 ### Languages
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge)](https://www.java.com/en/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
@@ -34,12 +32,14 @@ Or visit me on social media [Link tree](https://xap3y.eu/links)
 
 
 ### OS
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/cz/ios/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-US/windows)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-US/windows) <br>
+*`"I use arch btw"`*
 
+<!--
 <details>
   <summary><b>Stats</b></summary>
   <img src=https://github-readme-stats.vercel.app/api?username=xap3y&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true alt=Stats image>
@@ -49,6 +49,10 @@ Or visit me on social media [Link tree](https://xap3y.eu/links)
     <summary><b>🗓️ My Calendar</b></summary>
     <img src="https://github.com/xap3y/xap3y/blob/main/profile-3d-contrib/profile-night-green.svg">
 </details>
+-->
+<br>
+
+[![wakatime](https://wakatime.com/badge/user/018ed1c7-6d42-4752-b478-df3c0e773732.svg)](https://wakatime.com/@018ed1c7-6d42-4752-b478-df3c0e773732)
 
 <details>	
     <summary><b>Dev Metrics</b></summary>
