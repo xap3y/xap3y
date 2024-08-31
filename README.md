@@ -59,9 +59,9 @@ I do minecraft plugins for fun.
     <!--START_SECTION:waka-->
 
 ```txt
-Java              2 hrs 47 mins   █████████████▒░░░░░░░░░░░   53.36 %
-Kotlin            1 hr 36 mins    ███████▓░░░░░░░░░░░░░░░░░   30.73 %
-Other             16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Java              2 hrs 47 mins   █████████████▒░░░░░░░░░░░   53.37 %
+Kotlin            1 hr 36 mins    ███████▓░░░░░░░░░░░░░░░░░   30.74 %
+Other             16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
 Gradle            11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 JavaScript        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
