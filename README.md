@@ -59,11 +59,11 @@ I do minecraft plugins for fun.
     <!--START_SECTION:waka-->
 
 ```txt
-Java                       18 hrs 4 mins   ██████████████▓░░░░░░░░░░   58.47 %
-Other                      4 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
-Kotlin                     2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Bash                       2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-Groovy                     1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+Java             13 hrs 30 mins  ██████████████████▒░░░░░░   73.61 %
+Groovy           1 hr 56 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+Bash             1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+YAML             47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Vim Script       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
