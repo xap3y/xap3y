@@ -30,7 +30,7 @@ I do minecraft plugins for fun. JetBrains IDEs enjoyer
 
 
 ### OS
-![EndeavourOS](https://img.shields.io/static/v1?style=for-the-badge&message=EndeavourOS&color=7F7FFF&logo=EndeavourOS&logoColor=FFFFFF&label=)
+[![EndeavourOS](https://img.shields.io/static/v1?style=for-the-badge&message=EndeavourOS&color=7F7FFF&logo=EndeavourOS&logoColor=FFFFFF&label=)](https://endeavouros.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/cz/ios/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
