@@ -1,4 +1,4 @@
-## Hello, I'm [XAP3Y](https://xap3y.eu)
+## Hello, I'm [XAP3Y](https://xap3y.tech)
 
 I do minecraft plugins for fun. JetBrains IDEs enjoyer
 
